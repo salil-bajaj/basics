@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Salil
+- 👀 I’m interested in solving problems!
+- 🌱 I’m currently learning front end development and data science
+- 💞️ I’m looking to collaborate on front end development
+- 📫 How to reach me - Linkedin (Salil Bajaj)
